@@ -26,12 +26,12 @@
 #include <WiFiClientSecure.h>
 
 // ── Fill in your credentials ────────────────────────────────────────────
-#define WIFI_SSID      "Semicon ACT"
-#define WIFI_PASS      "cracksen1605"
-#define DEVICE_ID      "8b004f85-ce3b-40c6-a9c5-a1679e575f97"
-#define CONNECTION_KEY "de71717c7463c778fd105334ba686a5f"
-#define API_KEY        "cd_moh_240626_11WynF"
-#define PHONE_NUMBER   "917539912128"
+#define WIFI_SSID      "YOUR_WIFI_SSID"
+#define WIFI_PASS      "YOUR_WIFI_PASSWORD"
+#define DEVICE_ID      "YOUR_DEVICE_ID"
+#define CONNECTION_KEY "YOUR_CONNECTION_KEY"
+#define API_KEY        "YOUR_API_KEY"
+#define PHONE_NUMBER   "YOUR_PHONE_NUMBER"
 
 #define KEY_TARGET_SET   "analog-input-1"   // slider: desired whistle count
 #define KEY_LISTEN_SW    "analog-input-2"   // switch: start/stop listening
